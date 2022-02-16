@@ -1,6 +1,6 @@
 # Answer Equivalence Dataset
 
-This dataset is introduced and described in [Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation]().
+This dataset is introduced and described in [Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation](http://arxiv.org/abs/2202.07654).
 
 
 ## Download the data
@@ -11,6 +11,7 @@ This dataset is introduced and described in [Tomayto, Tomahto. Beyond Token-leve
 | [Dev](https://github.com/google-research-datasets/answer-equivalence-dataset/blob/main/v1/ae_dev.jsonl) | 2,734 | 4,446 |
 | [Test](https://github.com/google-research-datasets/answer-equivalence-dataset/blob/main/v1/ae_test.jsonl) | 5,831 | 9,724 |
 | Total  | 17,655 | 23,260 |
+
 
 | Split by system  | # AE Examples | # Ratings |
 |------------------|---------------|-----------|
@@ -24,17 +25,17 @@ This dataset is introduced and described in [Tomayto, Tomahto. Beyond Token-leve
 
 ```
 @article{bulian-etal-2022-tomayto,
-  author    = {Bulian, Jannis  and
-		Buck, Christian  and
-		Gajewski, Wojciech  and
-		B{\"o}rschinger, Benjamin  and
-		Schuster, Tal},
+  author    = {Jannis Bulian and
+		Christian Buck  and
+		Wojciech Gajewski and
+		Benjamin B{\"o}rschinger and
+		Tal Schuster},
   title     = {Tomayto, Tomahto. Beyond Token-level Answer Equivalence 
                for Question Answering Evaluation},
   journal   = {CoRR},
-  volume    = {abs/},
+  volume    = {abs/2202.07654},
   year      = {2022},
-  ee        = {http://arxiv.org/abs/},
+  ee        = {http://arxiv.org/abs/2202.07654},
 }
 ```
 
