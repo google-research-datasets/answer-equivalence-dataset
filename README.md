@@ -21,6 +21,13 @@ This dataset is introduced and described in [Tomayto, Tomahto. Beyond Token-leve
 | Total  | 8,565 | 14,170 |
 
 
+## BERT Matching (BEM) model
+
+The BEM model from the paper, finetuned on this dataset, is available on [tfhub](https://tfhub.dev/google/answer_equivalence/bem/1).
+
+This [colab](https://colab.research.google.com/github/google-research-datasets/answer-equivalence-dataset/blob/main/Answer_Equivalence_BEM_example.ipynb) demonstrates how to use it.
+
+
 ## How to cite AE? 
 
 ```
